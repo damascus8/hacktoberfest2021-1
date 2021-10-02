@@ -19,6 +19,7 @@
 | Aman Gupta           | [@find-aman](https://github.com/find-aman)                    |         1        |
 | Vatsal Narwal        | [@VatsalNarwal](https://github.com/VatsalNarwal)              |         0        |
 | Pratik Shirodkar     | [@Pratik-Shirodkar](https://github.com/Pratik-Shirodkar)      |         0        |
+| Siddharth Shrivastav | [@damascus8](https://github.com/damascus8)                    |         0        |
 | Ramya Neelakantan    | [@ramya-neelakantan](https://github.com/ramya-neelakantan)    |         1        |
 | Kanishk J            | [@Kanishk7559](https://github.com/kanishk7559)                |         0        |
 | Misa Dravid          | [@misa-bot](https://github.com/misa-bot)                      |         0        |
